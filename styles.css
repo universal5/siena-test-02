@@ -37,7 +37,7 @@ p {	padding:0px;}
 	display:table-cell; border:0px solid red; vertical-align:top;
 }
 
-.nav { border: 1px solid green; width:100%; /*max-width:750px;*/ text-align:right; }
+.nav { border: 0px solid green; width:100%; /*max-width:750px;*/ text-align:right; }
 .nav ul {list-style-type: none; color:#f3d005; border: 0px solid yellow; display:inline-block; margin:0; }
 .nav li { display:inline-block; padding:3px 15px; border:0px solid yellow;}
 .nav a {color:#f3d005; text-decoration:none; }
