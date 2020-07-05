@@ -73,7 +73,7 @@ p {	padding:0px;}
 
 }
 @media only screen and (max-width: 450px) {
-    .HeaderRight h1{font-size: 50}  
+    .HeaderRight h1{font-size: 40}  
     .divTable {width:100%;}
     .divTableRow {width:97%;}
     .divTableCell:nth-child(odd){width:100%; }
@@ -82,6 +82,6 @@ p {	padding:0px;}
 }
 
 @media only screen and (max-width: 350px) {
-    .HeaderRight h1{font-size: 40}  
+    .HeaderRight h1{font-size: 30}  
 }
 
