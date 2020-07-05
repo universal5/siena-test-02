@@ -1,6 +1,7 @@
 body{ 	background-color:#888;
 	color:#555;
 		font-family: 'Arimo', sans-serif;
+		font-size: 16px;
 		margin:3px;
 		padding:0px;					
 		position:relative;
@@ -70,7 +71,7 @@ p {	padding:0px;}
   	}	
 }
 @media only screen and (max-width: 500px) {
-	body {font-size:120%;}
+	
 }
 @media only screen and (max-width: 450px) {
     .HeaderRight h1{font-size: 40}  
