@@ -27,7 +27,7 @@ p {	padding:0px;}
 }
 
 .logo {
-	display:table-cell; border:1px solid red;
+	display:table-cell; border:0px solid red;
 }
 
 .logo img { height:100px;}
